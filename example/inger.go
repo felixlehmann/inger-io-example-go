@@ -15,7 +15,7 @@ import (
 )
 
 func main() {
-    base_url := "http://inger.io/"
+    base_url := "https://inger.io/"
     inger_version := "v1"
     vendor := "facebook"
     service := "graph"
